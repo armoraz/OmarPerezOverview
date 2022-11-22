@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=I'm Omar Perez&animation=fadeIn&type=waving&color=gradient&height=150&fontSize=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=I'm%20Omar%20Perez&animation=fadeIn&type=waving&color=gradient&height=150&fontSize=100"/>
 </p>
 
 <p align="center>
@@ -32,6 +32,7 @@ hobbies: ["Gaming", "Reading", "Epic fantasy"]
 
 <h2>Some tools I have used and learn</h2>
 
+<p align="left">
 <img src="img\317755_badge_html_html5_achievement_award_icon.png" alt="html" height="40"/>
 <img src="img\317756_badge_css_css3_achievement_award_icon.png" alt="css" height="40"/>
 <img src="img\652581_code_command_develop_javascript_language_icon.png" alt="javascript" height="40"/>
@@ -40,6 +41,7 @@ hobbies: ["Gaming", "Reading", "Epic fantasy"]
 <img src="img\1012818_code_development_logo_nodejs_icon.png" alt="node" height="40"/>
 <img src="img\4691328_postgresql_icon.png" alt="postgresql" height="40"/>
 <img src="img\beaver-head.png" alt="dbeaver" height="40"/>
+</p>
 
 ---
 
