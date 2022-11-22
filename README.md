@@ -47,7 +47,7 @@ hobbies: ["Gaming", "Reading", "Epic fantasy"]
 
 - 📫 How to reach me: omarperez.alr@gmail.com
 
-- ⚡ Fun fact: I found coding has been keeping my brain interested and committed. That makes me realize this what I want keep doing.
+- ⚡ Fun fact: I found coding has been keeping my brain interested and committed (pun intended). That makes me realize this what I want keep doing.
 
 ---
 
