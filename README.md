@@ -2,11 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=I'm%20Omar%20Perez&animation=fadeIn&type=waving&color=gradient&height=150&fontSize=100"/>
 </p>
 
-<p align="center>
-</p>
-          
-<h2>Connect with me:</h2>          
+
+        
 <section>
+<h2>Connect with me:</h2>  
 <a href="www.linkedin.com/in/omar-perez-80bbaa164">
   <img height="45" src="img\834713_linkedin_icon.png"/>
 </a>
