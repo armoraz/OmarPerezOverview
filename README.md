@@ -17,14 +17,15 @@
 ```yaml
 
 fullName: "Omar Perez",
-aboutMe: "Hi there, I'm a fullstack developer (how good sounds that!). I'm currtently working outside of Tech and I'm looking to start my journey in the industry",
+aboutMe: "Hi there, I'm a fullstack developer (how good sounds that!).
+         I'm currtently working outside of Tech and I'm looking to start my journey in the industry",
 located_in: "CABA, Argentina",
 currently_job: "e-commerce operator",
 education:
-[
-"SoyHenry Bootcamp",
-"Chemistry Engineering (non graduated)"
-]
+  [
+    "SoyHenry Bootcamp",
+    "Chemistry Engineering (non graduated)"
+  ]
 currently_learning: ["MongoDB"],
 hobbies: ["Gaming", "Reading", "Epic fantasy"]
 
