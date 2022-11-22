@@ -3,11 +3,10 @@
 </p>
 
 <p align="center>
-
----
 </p>
+          
+<h2>Connect with me:</h2>          
 <section>
-<h2>Connect with me:</h2>
 <a href="www.linkedin.com/in/omar-perez-80bbaa164">
   <img height="45" src="img\834713_linkedin_icon.png"/>
 </a>
